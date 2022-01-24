@@ -1,5 +1,5 @@
 # RestaurantManagementSystem_project
-Restaurant management sysytem/ Food ordering sysytem Project using  Data structure and Algorithms.
+Restaurant management system/ Food ordering system Project using  Data structure and Algorithms.
 
 1. Console based project
 2. Used concept of LinkedList like (insertion, deletion, display)
