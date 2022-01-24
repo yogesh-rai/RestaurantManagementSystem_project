@@ -4,15 +4,15 @@ public class RestaurantManagementSystem {
 
     //global node pointers which we use throughout the program
 
-    //general node pointers for Admin
+    // node pointers for Admin
     private static Node AdminHead = null;
     private static Node AdminTail = null;
 
-    //general node pointers for customer
+    // node pointers for customer
     private static Node CustomerHead = null;
     private static Node CustomerTail = null;
 
-    //general node pointers sales LinkedList to keep track of total sales throughout the day
+    // node pointers sales LinkedList to keep track of total sales throughout the day
     private static Node SalesHead = null;
     private static Node SalesTail = null;
 
