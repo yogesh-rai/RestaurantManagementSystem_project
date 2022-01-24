@@ -308,7 +308,7 @@ public class RestaurantManagementSystem {
         System.out.println("\t Total cost : "+total+"\n\n");
     }
 
-    // this function shows the options available for admin choose
+    // this function shows the options available for admin to choose
     private static void adminMenu()
     {
         System.out.println("                   --------------------------------------------------------    ");
@@ -407,7 +407,7 @@ public class RestaurantManagementSystem {
         }
     }
 
-    // this function shows the options available for customer choose
+    // this function shows the options available for customer to choose
     private static void customerMenu()
     {
         System.out.println("                   --------------------------------------------------------       ");
